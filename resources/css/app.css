@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@source "../views/**/*.blade.php";
+@source "../../app/View/Components/**/*.php";
